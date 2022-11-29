@@ -38,5 +38,5 @@ Frontend Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/brindashree"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brindashree&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/brindashree"><img src="https://activity-graph.herokuapp.com/graph?username=brindashree&bg_color=000000&color=ffffff&line=14b8a6&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- 
+<a href="http://www.github.com/brindashree"><img src="https://activity-graph.herokuapp.com/graph?username=brindashree&bg_color=000000&color=ffffff&line=14b8a6&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
