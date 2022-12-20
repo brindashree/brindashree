@@ -5,10 +5,9 @@ Hi 👋 My name is Brindashree C B
 Frontend Developer
 ------------------
 
-* 🌍  I'm based in Banglore, India
-* 🖥️  See my portfolio at [brinda.dev](http://brindashree-portfolio.netlify.app/)
-* ✉️  You can contact me at [brindashree29@gmail.com](mailto:brindashree29@gmail.com)
-* 🧠  I'm learning MERN stack
+* 🌍  Banglore, India
+* 🖥️  Portfolio : [brinda.dev](http://brindashree-portfolio.netlify.app/)
+* ✉️  Contact : [brindashree29@gmail.com](mailto:brindashree29@gmail.com)
 * ⚡  Harry Potter & Animated movies fan
 
 ### Skills
