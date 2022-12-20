@@ -1,5 +1,6 @@
 Hi 👋 My name is Brindashree C B
 ================================
+![](https://komarev.com/ghpvc/?username=brindashee&color=14b8a6&style=for-the-badge)
 
 Frontend Developer
 ------------------
