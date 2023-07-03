@@ -1,4 +1,4 @@
-Hi 👋 My name is Brindashree C B
+Hi 👋 I'm Brinda
 ================================
 ![](https://komarev.com/ghpvc/?username=brindashee&color=14b8a6&style=for-the-badge)
 
