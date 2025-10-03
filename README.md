@@ -6,7 +6,7 @@ Frontend Developer
 ------------------
 
 * 🌍  Banglore, India
-* 🖥️  Portfolio : [brinda.dev](http://brindashree-portfolio.netlify.app/)
+* 🖥️  Portfolio : [brinda.dev](https://brinda-dev.vercel.app/)
 * ✉️  Contact : [brindashree29@gmail.com](mailto:brindashree29@gmail.com)
 
 
